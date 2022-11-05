@@ -1,0 +1,60 @@
+/*Manuel Ernesto Arguelles Muñoz 5BMPr*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+.menu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    padding: 0;
+    background: rgb(255, 0, 0);
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    border: 5px solid white;
+    font-size: 20px;
+    color: aliceblue;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+}
+.informacion{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:justify
+}
+.linea{
+    background-color: rgb(0, 0, 94);
+    border-color: red;
+    height: 10px;
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.tabla{
+    width:33.3%;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    color: rgb(0, 0, 94);
+}
+.Formulario{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 92);
+    font-size: 30px;
+}
